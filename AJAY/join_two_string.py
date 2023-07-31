@@ -1,2 +1,2 @@
-a,b="vijay","Ajay"
+a,b="Naveena","Durai"
 print(a,b)
